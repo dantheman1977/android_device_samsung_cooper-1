@@ -41,4 +41,5 @@ PRODUCT_COPY_FILES += \
     device/samsung/cooper/ramdisk/COOPER.rle:root/COOPER.rle
 
 ## LDPI assets
+PRODUCT_AAPT_CONFIG := normal hdpi mdpi
 PRODUCT_AAPT_PREF_CONFIG := mdpi
